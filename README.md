@@ -4,4 +4,3 @@
 - 🌱 Estudando Sistemas de Informação na UNIFEI
 - 📖 Conhecimentos em linguagens como: C, Python e Java.
 - 📫 Contate-me no email: erickalvarengabonifacio@hotmail.com
-
