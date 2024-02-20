@@ -9,5 +9,5 @@
 
 - 🔭 I'm looking for the first opportunity in the job market as a back-end developer;
 - 🌱 I'm studying Information Systems in Federal University of Itajubá - UNIFEI;
-- 📖 Knowledge in technologies such as: C, Python, Java anf mySQL.
+- 📖 Knowledge in technologies such as: C, Python, Java and mySQL.
 - 📫 Contact me on the email address: erickalvarengabonifacio@hotmail.com
