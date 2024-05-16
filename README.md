@@ -1,15 +1,15 @@
 # Olá! Meu nome é Erick Bonifacio!
 
-- 🔭 Busco a primeira oportunidade no mercado de trabalho como desenvolvedor back-end;
+- 🔭 Atualmente, sou estagiário de desenvolvimento de software, trabalhando com ferramentas como PHP e JavaScript;
 - 🌱 Estudando Sistemas de Informação na UNIFEI;
-- 📖 Conhecimentos em tecnologias como: C, Python, Java, MySQL, MongoDB e gerenciamento de dependências com Maven.
+- 📖 Conhecimentos em tecnologias como: C, Python, Java, JavaScript, PHP e MySQL;
 - 📫 Contate-me no email: erickalvarengabonifacio@hotmail.com
 
 ## Hey there! My name is Erick Bonifacio!
 
-- 🔭 I'm looking for the first opportunity in the job market as a back-end developer;
+- 🔭 Currently, I'm a software developer intern, working with tools such as PHP and JavaScript;
 - 🌱 I'm studying Information Systems in Federal University of Itajubá - UNIFEI;
-- 📖 Knowledge in technologies such as: C, Python, Java, MySQL, MongoDB and dependencies management with Maven.
+- 📖 Knowledge in technologies such as: C, Python, Java, JavaScript, PHP e MySQL;
 - 📫 Contact me on the email address: erickalvarengabonifacio@hotmail.com
 
 # Estatísticas/Statistics
