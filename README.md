@@ -1,13 +1,11 @@
 # Olá! Meu nome é Erick Bonifacio!
 
-- 🔭 Atualmente, sou estagiário de desenvolvimento de software, trabalhando com ferramentas como PHP e JavaScript;
 - 🌱 Estudando Sistemas de Informação na UNIFEI;
 - 📖 Conhecimentos em tecnologias como: C, Python, Java, JavaScript, PHP e MySQL;
 - 📫 Contate-me no email: erickalvarengabonifacio@hotmail.com
 
 ## Hey there! My name is Erick Bonifacio!
 
-- 🔭 Currently, I'm a software developer intern, working with tools such as PHP and JavaScript;
 - 🌱 I'm studying Information Systems in Federal University of Itajubá - UNIFEI;
 - 📖 Knowledge in technologies such as: C, Python, Java, JavaScript, PHP e MySQL;
 - 📫 Contact me on the email address: erickalvarengabonifacio@hotmail.com
