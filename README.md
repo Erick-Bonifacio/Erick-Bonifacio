@@ -1,12 +1,14 @@
 # Olá! Meu nome é Erick Bonifacio!
 
 - 🌱 Estudando Sistemas de Informação na UNIFEI;
+- 💻 Estagiário me desenvolvimento fullstack;
 - 📖 Conhecimentos em tecnologias como: C, Python, Java, JavaScript, PHP e MySQL;
 - 📫 Contate-me no email: erickalvarengabonifacio@hotmail.com
 
 ## Hey there! My name is Erick Bonifacio!
 
 - 🌱 I'm studying Information Systems in Federal University of Itajubá - UNIFEI;
+- 💻 Fullstack development intern;
 - 📖 Knowledge in technologies such as: C, Python, Java, JavaScript, PHP e MySQL;
 - 📫 Contact me on the email address: erickalvarengabonifacio@hotmail.com
 
