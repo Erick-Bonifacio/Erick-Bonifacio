@@ -26,10 +26,16 @@
 
 <div style="display: flex; justify-content: space-between; margin-top: 50px;">
   <a href="https://github.com/Erick-Bonifacio">
+    <img align="justify" height="64" width="64" src="https://cdn.simpleicons.org/c/A8B9cc.svg" style="margin-right: 40px;" />
+  </a>
+  <a href="https://github.com/Erick-Bonifacio">
     <img align="justify" height="64" width="64" src="https://cdn.simpleicons.org/python/3776ab.svg" style="margin-right: 10px;" />
   </a>
   <a href="https://github.com/Erick-Bonifacio">
-    <img align="justify" height="64" width="64" src="https://cdn.simpleicons.org/c/A8B9cc.svg" style="margin-right: 40px;" />
+    <img align="justify" height="64" width="64" src="https://cdn.simpleicons.org/php/777BB4.svg" style="margin-right: 10px;" />
+  </a>
+  <a href="https://github.com/Erick-Bonifacio">
+    <img align="justify" height="64" width="64" src="https://cdn.simpleicons.org/javascript/F7DF1E.svg" style="margin-right: 10px;" />
   </a>
   <a href="https://github.com/Erick-Bonifacio">
     <img align="justify" height="64" width="64" src="https://cdn.simpleicons.org/mysql/4479a.svg" />
