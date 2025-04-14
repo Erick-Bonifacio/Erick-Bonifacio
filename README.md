@@ -1,16 +1,53 @@
-# Olá! Meu nome é Erick Bonifacio!
+# 👋 Olá! Meu nome é Erick Bonifacio!
 
-- 🌱 Estudando Sistemas de Informação na UNIFEI;
-- 💻 Estagiário me desenvolvimento fullstack;
-- 📖 Conhecimentos em tecnologias como: C, Python, Java, JavaScript, PHP e MySQL;
-- 📫 Contate-me no email: erickalvarengabonifacio@hotmail.com
+Sou estudante de **Sistemas de Informação** na **UNIFEI** (Universidade Federal de Itajubá) e atualmente trabalho como **desenvolvedor fullstack**, focando em correções de bugs e implementação de novas funcionalidades em sistemas internos, além de criação de APIs de integração.
 
-## Hey there! My name is Erick Bonifacio!
+Tenho uma personalidade tranquila e encaro problemas de forma positiva, sempre buscando aprender com cada desafio. Gosto de aproveitar meu tempo livre andando no parque e curtindo momentos com minha família 💙
 
-- 🌱 I'm studying Information Systems in Federal University of Itajubá - UNIFEI;
-- 💻 Fullstack development intern;
-- 📖 Knowledge in technologies such as: C, Python, Java, JavaScript, PHP e MySQL;
-- 📫 Contact me on the email address: erickalvarengabonifacio@hotmail.com
+---
+
+## 🚀 Sobre mim
+
+- 🎓 Estudante de Sistemas de Informação (UNIFEI)
+- 💼 Estagiário em desenvolvimento fullstack desde maio de 2024
+- 🧠 Buscando sempre evoluir pessoal e profissionalmente
+- 🌍 Aberto a novas oportunidades, projetos e conexões!
+
+---
+
+## 💻 Tecnologias e Ferramentas
+
+- Linguagens: `C`, `Python`, `Java`, `PHP`, `JavaScript`
+- Frameworks: `Laravel`, `jQuery`, `JPA/Hibernate`
+- Banco de dados: `MySQL`, `PostgreSQL`
+- Ferramentas: `Docker`, `Git`, `WSL`, `Trello`, `Asana`
+- Conceitos: API REST, autenticação com JWT e Basic, versionamento, conteinerização
+- Experiência com integração de sistemas e automação de processos via middleware
+
+---
+
+## 📚 Projetos & Experiências
+
+- 🔧 **API Middleware em Laravel**: automatiza a transferência de dados entre serviços internos e um sistema nacional, reduzindo trabalho manual e aumentando a eficiência.
+- 👨‍💻 **Site de reservas de salas**: com carrossel de fotos, contador de tempo e layout responsivo.
+- 🧠 **Criação de conteúdo fullstack**: em breve vou lançar uma série de vídeos curtos para ensinar programação do zero até APIs completas.
+- 🌱 **Centro de Empreendedorismo da UNIFEI (CEU)**: participei ativamente liderando minha equipe na preparação para o evento CRIA.
+
+---
+
+## 🌐 Idiomas
+
+- 🇧🇷 Português – Nativo  
+- 🇺🇸 Inglês – Intermediário, estudando ativamente com aulas e encontros com tutores nativos
+
+---
+
+## 📫 Contato
+
+- 📧 E-mail: **erickalvarengabonifacio@hotmail.com**
+- 💼 [LinkedIn](https://www.linkedin.com/in/seu-usuario-aqui)
+
+---
 
 # Estatísticas/Statistics
 
@@ -21,6 +58,7 @@
   <img align="center" src="https://streak-stats.demolab.com/?user=Erick-Bonifacio&theme=merko" />
 </a>
 
+---
 
 # Tecnologias/Technologies
 
@@ -35,21 +73,19 @@
     <img align="justify" height="64" width="64" src="https://cdn.simpleicons.org/php/777BB4.svg" style="margin-right: 10px;" />
   </a>
   <a href="https://github.com/Erick-Bonifacio">
+    <img align="justify" height="64" width="64" src="https://cdn.simpleicons.org/laravel" />
+  </a>
+  <a href="https://github.com/Erick-Bonifacio">
     <img align="justify" height="64" width="64" src="https://cdn.simpleicons.org/javascript/F7DF1E.svg" style="margin-right: 10px;" />
   </a>
   <a href="https://github.com/Erick-Bonifacio">
-    <img align="justify" height="64" width="64" src="https://cdn.simpleicons.org/mysql/4479a.svg" />
-  </a>
-   <a href="https://github.com/Erick-Bonifacio">
-    <img align="justify" height="64" width="64" src="https://cdn.simpleicons.org/springboot" />
+    <img align="justify" height="64" width="64" src="https://cdn.simpleicons.org/jquery" />
   </a>
   <a href="https://github.com/Erick-Bonifacio">
-    <img align="justify" height="64" width="64" src="https://cdn.simpleicons.org/hibernate/59666C" />
-  </a>
-  <a href="https://github.com/Erick-Bonifacio">
-    <img align="justify" height="64" width="64" src="https://cdn.simpleicons.org/mongodb" />
-  </a>
-  <a href="https://github.com/Erick-Bonifacio">
-    <img align="justify" height="64" width="64" src="https://cdn.simpleicons.org/apache" />
+    <img align="justify" height="64" width="64" src="https://cdn.simpleicons.org/postgresql" />
   </a>
 </div>
+
+---
+
+> “A jornada é constante, e cada linha de código é um passo a mais.” 🚀
