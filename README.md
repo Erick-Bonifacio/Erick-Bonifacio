@@ -45,7 +45,7 @@ Tenho uma personalidade tranquila e encaro problemas de forma positiva, sempre b
 ## 📫 Contato
 
 - 📧 E-mail: **erickalvarengabonifacio@hotmail.com**
-- 💼 [LinkedIn](https://www.linkedin.com/in/seu-usuario-aqui)
+- 💼 [LinkedIn](https://www.linkedin.com/in/erick-bonifacio-b7a898273)
 
 ---
 
