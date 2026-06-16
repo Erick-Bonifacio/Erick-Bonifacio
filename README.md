@@ -1,8 +1,8 @@
 # 👋 Olá! Meu nome é Erick Bonifacio!
 
-Sou estudante de **Sistemas de Informação** na **UNIFEI** (Universidade Federal de Itajubá) e atualmente trabalho como **desenvolvedor fullstack**, focando em correções de bugs e implementação de novas funcionalidades no sistema do cliente que consiste em uma aplicação Web/Mobile com foce em escalabilidade.
+Sou estudante de **Sistemas de Informação** na **UNIFEI** (Universidade Federal de Itajubá) e atualmente trabalho como **desenvolvedor fullstack**, focando em correções de bugs e implementação de novas funcionalidades no sistema do cliente - uma aplicação Web/Mobile com foco em escalabilidade.
 
-Tenho uma personalidade tranquila e encaro problemas de forma positiva, sempre buscando aprender com cada desafio. Gosto de aproveitar meu tempo livre andando no parque e curtindo momentos com minha família 💙
+Tenho uma personalidade tranquila e encaro problemas de forma positiva, sempre buscando aprender com cada desafio. Gosto de aproveitar meu tempo livre andando no parque e curtindo momentos com minha família.
 
 ---
 
