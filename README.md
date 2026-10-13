@@ -1,94 +1,81 @@
-# 👋 Olá! Meu nome é Erick Bonifacio!
+# Olá, eu sou o Erick 👋
 
-Sou estudante de **Sistemas de Informação** na **UNIFEI** (Universidade Federal de Itajubá) e atualmente trabalho como **desenvolvedor fullstack**, focando em correções de bugs e implementação de novas funcionalidades no sistema do cliente - uma aplicação Web/Mobile com foco em escalabilidade.
+**Desenvolvedor Full Stack** · Java · Spring Boot · React Native · Google Cloud · IA Generativa
+📍 Itajubá, MG · Estudante de Sistemas de Informação na **UNIFEI**
 
-Tenho uma personalidade tranquila e encaro problemas de forma positiva, sempre buscando aprender com cada desafio. Gosto de aproveitar meu tempo livre andando no parque e curtindo momentos com minha família.
+Sou o desenvolvedor principal de uma **plataforma de leilões em produção** com cerca de **6 mil usuários** e **US$ 500 mil movimentados por ano**. Cuido do ciclo completo: do levantamento de requisitos com o cliente até o deploy e o monitoramento no Google Cloud.
 
----
-
-## 🚀 Sobre mim
-
-- 🎓 Estudante de Sistemas de Informação (UNIFEI);
-- 💼 Atuando desde maio de 2024;
-- 🧠 Buscando sempre evoluir pessoal e profissionalmente;
-- 🌍 Aberto a novas oportunidades, projetos e conexões!.
+Tenho uma personalidade tranquila e encaro problemas como oportunidade de aprender. No tempo livre, gosto de caminhar no parque e aproveitar momentos com a família.
 
 ---
 
-## 💻 Tecnologias e Ferramentas
+## 🏆 Resultados
 
-- Linguagens: `Java`, `PHP`, `JavaScript`, `Typescript`, `SQL`
-- Frameworks: `Laravel`, `jQuery`, `JPA/Hibernate`, `React Native`
-- Banco de dados: `MySQL`, `PostgreSQL`
-- Ferramentas: `Docker`, `Git`, `Jira`, `Google Cloud`, `CI/CD`
-- Conceitos: API REST, autenticação JWT, versionamento, conteinerização
-- Experiência com integração de sistemas e construção de APIs
+- ⚡ **Performance:** plataforma até **10x mais rápida** sob alta carga, sustentando ~**2 mil usuários simultâneos**
+- ✅ **Qualidade:** estratégia de testes criada do zero, levando a cobertura de **0% para ~80%** com Playwright, com CI automatizado no GitHub Actions
+- 🚀 **Entrega:** releases a cada **45 dias**, com ~9 novas funcionalidades por ano
+- 🤖 **IA generativa:** automação que renomeia ~250 entidades por turno, eliminando **50 minutos de trabalho manual** a cada turno
+- 🧭 **AI Enablement:** ajudei a construir o sistema que distribui e atualiza as regras de uso de IA entre os times da empresa
+- 🤝 **Contratação:** avaliei tecnicamente **20+ candidatos** de diferentes níveis
 
 ---
 
-## 📚 Projetos & Experiências
+## 🛠️ Stack
 
-- 🔧 **API Middleware em Laravel**: automatiza a transferência de dados entre serviços internos e um sistema nacional, reduzindo trabalho manual e aumentando a eficiência.
-- 👨‍💻 **CRM Nutricional**: Ferramenta de contato e gerenciamento de pacientes para nutricionistas.
-- 🧠 **Scan It Simple**: Plataforma de geração de QR Codes gratuitos com diferentes funcionalidades e estatísticas de scan! 
-- 🌱 **Centro de Empreendedorismo da UNIFEI (CEU)**: participei ativamente liderando minha equipe na preparação para o evento CRIA.
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,react,ts,js,php,laravel,postgres,mysql,docker,gcp,terraform,githubactions,git" />
+</p>
+
+| Área | Tecnologias |
+|---|---|
+| **Back-end** | Java, Spring Boot, JPA/Hibernate, PHP (Laravel) |
+| **Mobile & Front-end** | React Native (Expo), TypeScript, JavaScript |
+| **Cloud & DevOps** | Google Cloud (GCP), Terraform, Docker, GitHub Actions |
+| **Banco de dados** | PostgreSQL, MySQL |
+| **Qualidade** | Playwright (E2E), testes unitários |
+| **Conceitos** | APIs REST, autenticação JWT, CI/CD, infraestrutura como código, integração de sistemas |
+
+---
+
+## 📌 Projetos
+
+- 🧠 **Scan It Simple** — plataforma gratuita de geração de QR Codes, com diferentes funcionalidades e estatísticas de scan
+- 🥗 **CRM Nutricional** — ferramenta de contato e gerenciamento de pacientes para nutricionistas
+- 🔧 **API Middleware (Laravel)** — integração que automatizou o cadastro de beneficiários de outros municípios atendidos nas clínicas da cidade, antes feito à mão em várias ferramentas
+
+---
+
+## 💼 Trajetória
+
+| Período | Cargo | Empresa |
+|---|---|---|
+| jan/2026 – hoje | Engenheiro de Software | KIS Solutions |
+| jul/2025 – jan/2026 | Estagiário de Desenvolvimento *(efetivado)* | KIS Solutions |
+| mai/2024 – jul/2025 | Estagiário de Desenvolvimento | Support Informática |
+| mar/2023 – mai/2024 | Agente de Inovação | Centro de Empreendedorismo da UNIFEI |
 
 ---
 
 ## 🌐 Idiomas
 
-- 🇧🇷 Português – Nativo  
-- 🇺🇸 Inglês – Intermediário, prática cotidiana devido atuação internacional
+🇧🇷 Português — nativo · 🇺🇸 Inglês — intermediário, com uso diário em atuação internacional
+
+---
+
+## 📊 Estatísticas
+
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erick-Bonifacio&layout=compact&hide_border=true&theme=merko" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=Erick-Bonifacio&hide_border=true&theme=merko" />
+</p>
 
 ---
 
 ## 📫 Contato
 
-- 📧 E-mail: **erickalvarengabonifacio@hotmail.com**
-- 💼 [LinkedIn](https://www.linkedin.com/in/erick-bonifacio-b7a898273)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erickbonifacio)
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:erickalvarengabonifacio@hotmail.com)
 
----
+Aberto a conexões e trocas sobre desenvolvimento full stack, arquitetura de software e IA aplicada ao desenvolvimento.
 
-# Estatísticas/Statistics
-
-<a href="https://github.com/Erick-Bonifacio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erick-Bonifacio&theme=merko" />
-</a>
-<a href="https://github.com/Erick-Bonifacio">
-  <img align="center" src="https://streak-stats.demolab.com/?user=Erick-Bonifacio&theme=merko" />
-</a>
-
----
-
-# Tecnologias/Technologies
-
-<div style="display: flex; justify-content: space-between; margin-top: 50px;">
-  <a href="https://github.com/Erick-Bonifacio">
-    <img align="justify" height="64" width="64" src="https://cdn.simpleicons.org/spring/A8B9cc.svg" style="margin-right: 40px;" />
-  </a>
-  <a href="https://github.com/Erick-Bonifacio">
-    <img align="justify" height="64" width="64" src="https://cdn.simpleicons.org/react/3776ab.svg" style="margin-right: 10px;" />
-  </a>
-  <a href="https://github.com/Erick-Bonifacio">
-    <img align="justify" height="64" width="64" src="https://cdn.simpleicons.org/php/777BB4.svg" style="margin-right: 10px;" />
-  </a>
-  <a href="https://github.com/Erick-Bonifacio">
-    <img align="justify" height="64" width="64" src="https://cdn.simpleicons.org/laravel" />
-  </a>
-  <a href="https://github.com/Erick-Bonifacio">
-    <img align="justify" height="64" width="64" src="https://cdn.simpleicons.org/typescript/F7DF1E.svg" style="margin-right: 10px;" />
-  </a>
-  <a href="https://github.com/Erick-Bonifacio">
-    <img align="justify" height="64" width="64" src="https://cdn.simpleicons.org/javascript/F7DF1E.svg" style="margin-right: 10px;" />
-  </a>
-  <a href="https://github.com/Erick-Bonifacio">
-    <img align="justify" height="64" width="64" src="https://cdn.simpleicons.org/jquery" />
-  </a>
-  <a href="https://github.com/Erick-Bonifacio">
-    <img align="justify" height="64" width="64" src="https://cdn.simpleicons.org/googlecloud" />
-  </a>
-</div>
-
----
-
-> “A jornada é constante, e cada linha de código é um passo a mais.” 🚀
+> *"A jornada é constante, e cada linha de código é um passo a mais."* 🚀
